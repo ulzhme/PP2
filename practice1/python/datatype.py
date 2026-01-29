@@ -1,4 +1,4 @@
-#Data types
+#Data types 
 x = "Hello World"	#str	
 x = 20	#int	
 x = 20.5	#float	
