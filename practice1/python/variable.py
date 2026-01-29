@@ -23,7 +23,7 @@ _my_var = "John"
 myVar = "John"
 MYVAR = "John"
 myvar2 = "John"
-#6
+#6 
 MyVariableName = "John"
 myVariableName = "John"
 my_variable_name = "John"
