@@ -1,6 +1,6 @@
 #1
 print("Hello, World!")
-#2
+#2 
 print("ulzhan best")
 #3
 print("alga kazakhstan")
