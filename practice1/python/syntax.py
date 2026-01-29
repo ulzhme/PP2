@@ -13,7 +13,7 @@ print("Hello, World!")
 #5 syntax error
 if 5 > 2:
 print("Five is greater than two!")
-#6
+#6 
 print("Hello World!")
 print("Have a good day.")
 print("Learning Python is fun!")
