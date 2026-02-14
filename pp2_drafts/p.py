@@ -1,0 +1,7 @@
+a = int(input())
+b = int(input())
+if(a == b)
+   print ("egual")
+if(a > b )
+   print(a)
+if (b > a)

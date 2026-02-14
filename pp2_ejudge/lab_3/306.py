@@ -1,0 +1,22 @@
+class Shape:
+    def area(self):
+        return 0
+
+class Rectangle(Shape):
+    def __init__(self, length, width):
+        self.length = length
+        self.width = width
+
+    def area(self):
+        return self.length * self.width
+try:
+    data = input().split()
+    if len(data) == 2:
+        l = int(data[0])
+        w = int(data[1])
+        
+        my_rectangle = Rectangle(l, w)
+        
+        print(my_rectangle.area())
+except EOFError:
+    pass

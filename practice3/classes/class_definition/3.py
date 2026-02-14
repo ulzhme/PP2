@@ -1,0 +1,2 @@
+class FutureFeature:
+    pass
