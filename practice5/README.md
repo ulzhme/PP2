@@ -1,3 +1,6 @@
+### Структура проекта
+
+```text
 Practice5/
 ├── receipt_parser.py
 ├── raw.txt
