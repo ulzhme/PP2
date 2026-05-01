@@ -1,0 +1,47 @@
+[
+    {
+        "id": 4,
+        "first_name": "Alice",
+        "last_name": "Johnson",
+        "email": "alice.j@family.com",
+        "birthday": "1985-10-20",
+        "group": "Family",
+        "phones": "87770001122 (home)"
+    },
+    {
+        "id": 5,
+        "first_name": "Bob",
+        "last_name": "Brown",
+        "email": "bob.brown@other.com",
+        "birthday": "2000-12-31",
+        "group": "Other",
+        "phones": "87005554433 (mobile)"
+    },
+    {
+        "id": 3,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "jane.smith@work.com",
+        "birthday": "1995-05-15",
+        "group": "Work",
+        "phones": "87019876543 (work)"
+    },
+    {
+        "id": 2,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@gmail.com",
+        "birthday": "1990-01-01",
+        "group": "Friend",
+        "phones": "87771234567 (mobile)"
+    },
+    {
+        "id": 1,
+        "first_name": "Yernar",
+        "last_name": "Sarsenov",
+        "email": "yernar.sarsenov@gmail.com",
+        "birthday": "2008-05-18",
+        "group": "GTF",
+        "phones": "87767770415 (mobile)"
+    }
+]
